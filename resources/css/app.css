@@ -1,0 +1,32 @@
+@import "./pages/welcome.css";
+@import "./ui/buttons.css";
+@import "./ui/forms.css";
+@import "./ui/alerts.css";
+@import "./ui/dropdown.css";
+
+@import "./auth/auth.css";
+
+@import "./modals/modal-base.css";
+@import "./modals/task-modal.css";
+
+@import './profile/profile.css';
+
+@import "./pages/week-board.css";
+@import "./pages/month-view.css";
+@import "./pages/notebook.css";
+
+
+
+
+
+.visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border: 0;
+}
