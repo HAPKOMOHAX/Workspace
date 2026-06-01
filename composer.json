@@ -2,7 +2,7 @@
     "$schema": "https://getcomposer.org/schema.json",
     "name": "portfolio/workspace",
     "type": "project",
-    "description": "A Laravel application for task planning, weekly/monthly scheduling, and a notebook canvas with movable note blocks."
+    "description": "A Laravel application for task planning, weekly/monthly scheduling, and a notebook canvas with movable note blocks.",
     "keywords": ["laravel", "framework"],
     "license": "MIT",
     "require": {
