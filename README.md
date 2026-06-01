@@ -2,12 +2,12 @@
 
 ```text
 ┌──────────────────────────────────────────────┐
-│                  Workspace                   │
 │   Tasks · Calendar · Weekly Board · Notes    │
+│        Laravel workspace planner app         │
 └──────────────────────────────────────────────┘
 ```
 
-Workspace is a Laravel application for task planning, weekly and monthly scheduling, and a simple notebook canvas with movable note blocks.
+Workspace is a Laravel application for task planning, weekly and monthly scheduling, and notebook canvas with movable note blocks.
 
 The project was built as a personal Laravel practice project with a focus on CRUD operations, validation, user-specific data access, drag-and-drop interactions, and feature tests.
 
